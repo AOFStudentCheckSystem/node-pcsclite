@@ -10,7 +10,7 @@
         "test": "test"
     },
     "dependencies": {
-        "buffertools": "^2.1.2",
+        "buffertools": "AOFStudentCheckSystem/node-buffertools#master",
         "nan": "^2.2.1"
     },
     "devDependencies": {
